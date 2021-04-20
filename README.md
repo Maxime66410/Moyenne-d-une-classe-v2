@@ -1,4 +1,4 @@
-# Moyenne-d-une-classe-v2
+# Moyenne d'une classe V2
 Une classe d'étudiants a obtenu les notes suivantes pour trois examens passés dans un cours de logiciel.
 
 numéro de l'étudiant notes d'examen (pourcentage)
